@@ -1,0 +1,13 @@
+# repositorio-de-practica
+
+## septiembre  14 2021
+
+- se vincula el github
+- se adelantan las clases pendientes
+
+## septiembre 13
+Creé el github local, pero no dejaba guardar hasta que me identificara como usario. lo arrelge siguiendo las instrucciones que decia allí.
+como añadir enlaces [ enlace]
+
+## septiembre 10 
+Reunión de grupo y se designaron tareas
