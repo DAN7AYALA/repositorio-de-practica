@@ -11,3 +11,8 @@ como añadir enlaces [ enlace]
 
 ## septiembre 10 
 Reunión de grupo y se designaron tareas
+
+1. hola
+1. mundo
+1. *helow*
+1.
