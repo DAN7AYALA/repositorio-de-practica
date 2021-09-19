@@ -1,5 +1,9 @@
 # repositorio-de-practica
 
+## Septiembre 19 de 2021 
+Daniel:
+-Hice el header del sitio pero tengoun problema con el menú
+
 ## septiembre  14 2021
 
 - se vincula el github
