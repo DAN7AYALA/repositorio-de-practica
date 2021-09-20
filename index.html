@@ -7,28 +7,47 @@
         <title>Mi primera web</title>
     </head>
     <body>
-        <style>
-            body{
-                width: 1200px;
-                margin-right: auto;
-                margin-left: auto;
-                margin-top: 0;
-                margin-bottom: 0;
-            }            
-            .header-top{
-                display: flex;
-                justify-content: space-between;
+      <style>
+          body{
+              width: 1200px;
+              margin-right: auto;
+              margin-left: auto;
+              margin-top: 0;
+              margin-bottom: 0;
+          }        
+          .header-top{
+              display: flex;
+              justify-content: space-between;
+          }
+         .main-banner{
+             height: 400px;
+             background-image: url('http://placeimg.com/1200/400/any');
+          }
+         .main-menu{    
+             display: flex;
+             justify-content: space-around;
+             width: 40%;
+             align-items: center;   
+          }
+          .uno{
+              width: 100px;
+              height: 100px;
+              border: 1px solid red;
+          }
+          article{
+              background-color: purple;
             }
-            .main-banner{
-                height: 400px;
-                background-image: url('http://placeimg.com/1200/400/any');
-            }
-            .main-menu{
-                display: flex;
-                justify-content: space-around;
-                width: 40%;
-                align-items: center;
-            }
+          .dos{
+              background-color: salmon;
+          }
+          article.dos{
+              background-color: purple;
+          }
+          .tres{
+              background-color: green;
+          }
+          
+          
         </style>
         <header>
             <div class="header-top">
@@ -45,7 +64,11 @@
                 </div>
             </div> 
             <div class="main-banner">                
-            </div>              
+            </div> 
+            <article class="uno">
+            </article>
+            <article class="uno dos">
+            </article>
         </header>
     </body>
 </html>
